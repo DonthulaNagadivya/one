@@ -10,5 +10,6 @@
     <h1 style="color: green; font-size: 40px; text-align: center;">234567890</h1>
     <h1 style="color: pink; font-size: 40px; text-align: center;">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
     <h1 style="color: yellow; font-size: 40px; text-align: center;">WE have configured webhooks</h1>
+    <h1 style="color: blue; font-size: 40px; text-align: center;">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 </body>
 </html>
